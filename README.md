@@ -1,4 +1,5 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fguitcastro.medium.com%2Fstop-arguing-about-language-and-keep-going-with-the-one-you-are-confortable-with-it-ed91c95fc95f&psig=AOvVaw1a9Fiuw64C3G23QJ7wU1mQ&ust=1690556483919000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIiXxeeTr4ADFQAAAAAdAAAAABAt)
+[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dice.com%2Fcareer-advice%2F5-programming-languages-die&psig=AOvVaw0VfcJY2Epjj7iqg-_oqrIv&ust=1690556954345000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLDt5MeVr4ADFQAAAAAdAAAAABAI)
+
 <h1 align="center">Hi 👋, I'm Sevde Secer.</h1>
 - 🔭 I’m currently working on **Python.**
 
