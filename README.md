@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sevde Secer.</h1>
-- 🔭 I’m currently working on **Python.**
+- 🔭 I’m currently working on ** HTML, CSS, JavaScript. **
 
 - 📫 How to reach me **sevdeseceerr@gmail.com**
 
